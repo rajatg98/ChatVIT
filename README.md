@@ -1,4 +1,4 @@
-# ChatVIT - bot for VITians
+# ChatVIT - Chatbot for VITians
 A chatbot for students of Vellore Institute of Technology
 
 ## Active Host Platforms
@@ -14,5 +14,5 @@ Telegram : @ChatVIT
 -> Count of completed/remaining classes for the day
 
 ## Scope
-Currently configured for single user usage as the timetable data varies for every student.
+Currently configured for single user (me) on all running devices as the dataset (student timetable) will vary for every student.
 
